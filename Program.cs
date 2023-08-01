@@ -3,7 +3,7 @@ using webapi.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddDbContext<DataContext>(opts=> {
     opts.UseSqlite(builder.Configuration.GetConnectionString("database"));
 });

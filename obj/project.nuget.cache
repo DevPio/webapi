@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbIFGgC55ne/hFUnE9Z0RCpZmZdCZPHP1c9mnpI7t7FfqJVIjcpAd4VW1CNeD6KrzbLcfBGtvMvkfAbZRKztng==",
+  "dgSpecHash": "Ya8LyBm8akRelgIv7Q3/gUE7Yj6HQLb6y42j5g5jcRb2EHIFb7N6cdO84u8TIdGvgCpcCcMt8FuJqKBXdOn7bg==",
   "success": true,
   "projectFilePath": "/home/luccas/webapi/webapi.csproj",
   "expectedPackageFiles": [
+    "/home/luccas/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/luccas/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/luccas/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/home/luccas/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/luccas/.nuget/packages/microsoft.data.sqlite/7.0.9/microsoft.data.sqlite.7.0.9.nupkg.sha512",
     "/home/luccas/.nuget/packages/microsoft.data.sqlite.core/7.0.9/microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "/home/luccas/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

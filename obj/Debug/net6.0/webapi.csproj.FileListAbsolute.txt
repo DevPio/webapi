@@ -73,3 +73,5 @@
 /home/luccas/webapi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/luccas/webapi/bin/Debug/net6.0/Mono.TextTemplating.dll
 /home/luccas/webapi/bin/Debug/net6.0/System.CodeDom.dll
+/home/luccas/webapi/bin/Debug/net6.0/AutoMapper.dll
+/home/luccas/webapi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
